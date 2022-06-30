@@ -10,7 +10,7 @@ Here are my super mario agents with dueling network. ( trained 7,000 epoch )
   <img src="/mario1.gif" width="350" />
   <img src="/mario14.gif" width="350" /> 
 </p>
-
+12
 # Get started
 
 This project is divided into 4 parts:
